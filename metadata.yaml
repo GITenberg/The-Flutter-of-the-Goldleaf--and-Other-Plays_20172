@@ -1,0 +1,43 @@
+_repo: The-Flutter-of-the-Goldleaf--and-Other-Plays_20172
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Dargan, Olive Tilford
+    aliases:
+    - Tilford, Olive
+    - Burke, Fielding
+    birthdate: 1869
+    deathdate: 1968
+    gutenberg_agent_id: '9123'
+    url: http://www.gutenberg.org/2009/agents/9123
+    wikipedia: http://en.wikipedia.org/wiki/Olive_Tilford_Dargan
+  - agent_name: Peterson, Frederick
+    alias: Peterson, Frederic
+    birthdate: 1859
+    deathdate: 1938
+    gutenberg_agent_id: '9124'
+    url: http://www.gutenberg.org/2009/agents/9124
+description: The flutter of the goldleaf, by Olive T. Dargan and F. Peterson.--The
+  journey, by Olive T. Dargan.--Everychild, by F. Peterson and Olive T. Dargan.--Two
+  doctors at Akragas, by F. Peterson.
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2006-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20172'
+  lccn: '22002770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama -- 20th century'
+- !lcc 'PS'
+tableOfContents: "The Flutter of the Goldleaf, by DARGAN and PETERSON \r\nThe Journey,\
+  \ by DARGAN \r\nEverychild, by PETERSON and DARGAN \r\nTwo Doctors at Akragas, by\
+  \ PETERSON."
+title: The Flutter of the Goldleaf, and Other Plays
+url: http://www.gutenberg.org/ebooks/20172
