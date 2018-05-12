@@ -23,6 +23,8 @@ creator:
 description: The flutter of the goldleaf, by Olive T. Dargan and F. Peterson.--The
   journey, by Olive T. Dargan.--Everychild, by F. Peterson and Olive T. Dargan.--Two
   doctors at Akragas, by F. Peterson.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20172#The-Flutter-of-the-Goldleaf--and-Other-Plays
 gutenberg_bookshelf: One Act Plays
 gutenberg_issued: '2006-12-23'
 gutenberg_type: Text
